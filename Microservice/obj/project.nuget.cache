@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AUUJcFTSTMHVrrc88FaF9HPqSouloY4ZTLSe4l03/LyGkbE1T/GCtUGFElngr0bh7AkNeeGzg4j1dG1AR9HHxg==",
+  "success": true,
+  "projectFilePath": "C:\\AgileTemplate\\Microservice\\Microservice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hiwa\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
